@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_146b1e4884315cb88ac0810bb683e5cf8cab6619\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_54a61ef55f65bb1a996a1c94a7ba0925e773f60d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2fd15882e2c19737dab2adf996d9fbfa1fda8ca3">
+        <dex dex="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8a4ef1a21860731eab03822dcd5b1483f6628bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.0.0_970c9da4d59e17bd2a10018ee7f9575b515851d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="38471dc79676ebb643bf11a083efbd9b42801c95">
+        <dex dex="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_06a791933fa5974b6563021a816c2c7baa4018d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_b29cbd38e7e83f5615d28c3e0af6d010674e70ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saiha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_24a644063f8bf5c6b6bb501ffb9b90dafb78f605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\saiha\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\saiha\Desktop\Android-FacebookLogin-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.1.4_65f189b04d2a74cc671916fb7dd51689c9f5965c\classes.dex" />
+    </item>
+
+</items>
